@@ -1,0 +1,23 @@
+{
+  "name": "com.undefined.wwise-recorder",
+  "version": "1.0.0",
+  "displayName": "Wwise Recorder",
+  "description": "This adds a new recorder type to the Unity Recorder.\n\nIt comes with its own input and enables storing output as a .wav file.",
+  "unity": "2021.3",
+  "unityRelease": "7f1",
+  "changelogUrl": "https://github.com/nehvaleem/com.undefined.wwise-recorder/blob/main/CHANGELOG.MD",
+  "licensesUrl": "https://github.com/nehvaleem/com.undefined.wwise-recorder/blob/main/LICENSE.MD",
+  "dependencies": {
+    "com.unity.recorder": "4.0.1"
+  },
+  "keywords": [
+    "wwise",
+    "recorder",
+    "audio"
+  ],
+  "author": {
+    "name": "Undefined",
+    "email": "nehvaleem@undefined.games",
+    "url": "https://www.undefined.games"
+  }
+}

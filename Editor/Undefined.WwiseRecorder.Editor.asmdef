@@ -1,0 +1,22 @@
+{
+    "name": "Undefined.WwiseRecorder.Editor",
+    "rootNamespace": "Undefined.WwiseRecorder",
+    "references": [
+        "Unity.Recorder",
+        "AK.Wwise.Unity.API",
+        "AK.Wwise.Unity.MonoBehaviour",
+        "AK.Wwise.Unity.MonoBehaviour.Editor",
+        "Unity.Recorder.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
