@@ -20,3 +20,8 @@ Requires Unity 2021.3 LTS or higher.
 - Add package from git url: `https://github.com/nehvaleem/com.undefined.wwise-recorder.git`
 
 ---
+
+### Known Issues
+
+It seems that Wwise starts producing output before Unity does. This leads to the situation where captured audio output is a bit longer than video for example.
+For now, I recommend manually synchronizing tracks at the end (at least it seems to work in my case).
